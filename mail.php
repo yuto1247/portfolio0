@@ -32,4 +32,4 @@
   <?php else : ?>
     <p>メールの送信が失敗しました</p>
   <?php endif ; ?>
-  <a href="index.html">戻る</a>
+  <a href="https://yuto1247.github.io/portfolio0/">戻る</a>
