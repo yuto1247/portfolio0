@@ -8,7 +8,7 @@
   mb_language("Japanese");
   mb_internal_encoding("UTF-8");
 
-  $to = "zmarugerita@gmail.com"; //ここのメールアドレスを変更する
+  $to = "basket-yuto173@ezweb.ne.jp"; //ここのメールアドレスを変更する
   $subject = ”お問い合わせを受信しました”;
   $name = htmlspecialchars($_SESSION['name']);
   $mail = htmlspecialchars($_SESSION['mail']);
