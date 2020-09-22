@@ -259,7 +259,7 @@ h3{
 /* 左側のプロフィール画像を設定 */
 .about-box__img img {
   width: 30rem;
-  padding-left: 5rem;
+  padding-left: 3rem;
   padding-top: 2rem;
 }
 
